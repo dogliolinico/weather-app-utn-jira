@@ -1,0 +1,6 @@
+=== INDICADORES CLIMÁTICOS DE BELFAST ===
+Temperatura Máxima Absoluta: 18.8 °C
+Temperatura Mínima Absoluta: 3.3 °C
+Promedio de Temperaturas Máximas: 12.64 °C
+Promedio de Temperaturas Mínimas: 7.41 °C
+Promedio Mensual de Precipitaciones: 59.92 mm
